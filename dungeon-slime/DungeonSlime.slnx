@@ -4,4 +4,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="src/DesktopApp/DesktopApp.csproj" />
+  <Project Path="src/GameEngine/GameEngine.csproj" />
 </Solution>
